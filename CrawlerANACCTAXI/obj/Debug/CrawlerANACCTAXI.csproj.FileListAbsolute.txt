@@ -1,0 +1,12 @@
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\obj\Debug\CrawlerANACCTAXI.csprojAssemblyReference.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\obj\Debug\CrawlerANACCTAXI.csproj.CoreCompileInputs.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\bin\Debug\CrawlerANACCTAXI.exe.config
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\bin\Debug\CrawlerANACCTAXI.exe
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\bin\Debug\CrawlerANACCTAXI.pdb
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\obj\Debug\CrawlerANACCTAXI.csproj.CopyComplete
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\obj\Debug\CrawlerANACCTAXI.exe
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\obj\Debug\CrawlerANACCTAXI.pdb
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SHU Aeronáutica 01\Source\Repos\CrawlerANACCTAXI\CrawlerANACCTAXI\bin\Debug\Newtonsoft.Json.pdb
