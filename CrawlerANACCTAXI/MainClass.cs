@@ -20,7 +20,7 @@ namespace CrawlerANACCTAXI
 
             Console.Clear();
 
-            Console.WriteLine("Informe a informação de consulta:");
+            Console.WriteLine("Informe a consulta (letras maiusculas e com os pontos/traços):");
             Console.Write("->> ");
             key = Console.ReadLine();
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHU Aeronáutica 01\\Source\\Repos\\CrawlerANACCTAXI\\CrawlerANACCTAXI\\CrawlerANACCTAXI.csproj": {}
+    "C:\\Users\\SHU Aeronáutica 01\\Documents\\GitHub\\CrawlerANACTAXI\\CrawlerANACCTAXI\\CrawlerANACCTAXI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHU Aeronáutica 01\\Source\\Repos\\CrawlerANACCTAXI\\CrawlerANACCTAXI\\CrawlerANACCTAXI.csproj": {
+    "C:\\Users\\SHU Aeronáutica 01\\Documents\\GitHub\\CrawlerANACTAXI\\CrawlerANACCTAXI\\CrawlerANACCTAXI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHU Aeronáutica 01\\Source\\Repos\\CrawlerANACCTAXI\\CrawlerANACCTAXI\\CrawlerANACCTAXI.csproj",
+        "projectUniqueName": "C:\\Users\\SHU Aeronáutica 01\\Documents\\GitHub\\CrawlerANACTAXI\\CrawlerANACCTAXI\\CrawlerANACCTAXI.csproj",
         "projectName": "CrawlerANACCTAXI",
-        "projectPath": "C:\\Users\\SHU Aeronáutica 01\\Source\\Repos\\CrawlerANACCTAXI\\CrawlerANACCTAXI\\CrawlerANACCTAXI.csproj",
+        "projectPath": "C:\\Users\\SHU Aeronáutica 01\\Documents\\GitHub\\CrawlerANACTAXI\\CrawlerANACCTAXI\\CrawlerANACCTAXI.csproj",
         "packagesPath": "C:\\Users\\SHU Aeronáutica 01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHU Aeronáutica 01\\Source\\Repos\\CrawlerANACCTAXI\\CrawlerANACCTAXI\\obj\\",
+        "outputPath": "C:\\Users\\SHU Aeronáutica 01\\Documents\\GitHub\\CrawlerANACTAXI\\CrawlerANACCTAXI\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

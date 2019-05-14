@@ -11,7 +11,7 @@ namespace CrawlerANACCTAXI
         public string NavPrincipal()
         {
             Connect newConnect = new Connect();
-            Uri url = new Uri("https://sistemas.anac.gov.br/ctax?AspxAutoDetectCookieSupport=0");
+            Uri url = new Uri("https://sistemas.anac.gov.br/voeseguro?AspxAutoDetectCookieSupport=0");
 
             newConnect.CheckStatus(url);
 
@@ -29,7 +29,7 @@ namespace CrawlerANACCTAXI
         public string NavCnpj(byte[] form)
         {
             Connect newConnect = new Connect();
-            Uri url = new Uri("https://sistemas.anac.gov.br/CTAX/Consulta/PesquisarCnpj");
+            Uri url = new Uri("https://sistemas.anac.gov.br/VOESEGURO/Consulta/PesquisarCnpj");
 
             var html = string.Empty;
 
@@ -41,7 +41,7 @@ namespace CrawlerANACCTAXI
         public string NavMarca(byte[] form)
         {
             Connect newConnect = new Connect();
-            Uri url = new Uri("https://sistemas.anac.gov.br/CTAX/Consulta/PesquisarMarca");
+            Uri url = new Uri("https://sistemas.anac.gov.br/VOESEGURO/Consulta/PesquisarMarca");
 
             var html = string.Empty;
 
